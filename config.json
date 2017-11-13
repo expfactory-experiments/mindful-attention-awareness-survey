@@ -1,6 +1,7 @@
 {
     "name": "MAAS: Mindful Attention Awareness Scale Survey",
     "template":"survey",
+    "url": "https://github.com/expfactory-experiments/mindful-attention-awareness-survey",
     "exp_id": "mindful-attention-awareness-survey",
     "cognitive_atlas_task_id": "trm_56abcba3df89b",
     "contributors": [
