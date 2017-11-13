@@ -1,0 +1,17 @@
+{
+    "name": "MAAS: Mindful Attention Awareness Scale Survey",
+    "template":"survey",
+    "exp_id": "mindful-attention-awareness-survey",
+    "cognitive_atlas_task_id": "trm_56abcba3df89b",
+    "contributors": [
+             "Zeynep Enkavi",
+             "Ian Eisenberg",
+             "Patrick Bissett",
+             "Vanessa Sochat",
+             "Russell Poldrack"
+            ], 
+    "time":3,
+    "reference": ["http://psycnet.apa.org/journals/psp/84/4/822.pdf"],
+    "description": "Experiment Factory survey",
+    "instructions": "Please answer the following questions to the best of your ability"
+}
